@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{E087F1E3-6611-4E31-9F51-2637B588AD3C}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="0" kind="0" dateTime="45472.2737962963" objectName="Aliases.explorer.Downloads.Downloads.DUIViewWndClassName.Explorer_Pane.CtrlNotifySink.Shell_Folder_View.Items_View.Skype_8_122_0_205" objectLeft="297" objectTop="366" objectRight="444" objectBottom="391" clickPointX="375" clickPointY="378" imageFileName="tcvi55107037882.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="1" kind="0" dateTime="45472.2739236111" objectName="Aliases.Skype_Dialog.Installer_Window.Install_Button.Install" objectLeft="528" objectTop="522" objectRight="571" objectBottom="541" clickPointX="529" clickPointY="537" imageFileName="tcvi552143773600.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="2" kind="0" dateTime="45472.2742476852" objectName="Aliases.Skype.grouping2.grouping.grouping.grouping.grouping.grouping.buttonNoAccountCreateOne" objectLeft="222" objectTop="676" objectRight="468" objectBottom="706" clickPointX="342" clickPointY="692" imageFileName="tcvi555028170081.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>
